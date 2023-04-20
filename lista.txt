@@ -1,0 +1,62 @@
+1
+1
+2022-119010
+Linares Liendo
+Sebastian Tomas
+18
+20
+
+1
+2022-119015
+Perez Garcia
+Pedro Juan
+14
+19
+
+1
+2022-119013
+Aquino Flores
+Hernesto Felipe
+12
+17
+
+1
+2022-119040
+Garcia Sanchez
+Miguel Angel
+1
+
+1
+2022-114567
+Torres Gonzalez
+Ana Maria
+12
+18
+
+1
+2022-111234
+Rodriguez Gomez
+Juan Carlos
+17
+5
+
+1
+2022-968462
+Sanchez Jimenez
+Laura Isabel
+20
+1
+
+1
+2022-573083
+Gomez Garcia
+Jose Antonio
+13
+14
+
+1
+2022-376567
+Martinez Lopez
+Maria del Carmen
+16
+7
