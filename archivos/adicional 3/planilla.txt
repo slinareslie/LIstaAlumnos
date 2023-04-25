@@ -1,7 +1,0 @@
-
-SE-111 Sebastian Linares 100 37
-AL-222 Alexander Zacarias 345 274.65
-JO-333 Josefino Arias 765 682.05
-EM-444 Emilio Aparicio 567 489.99
-AN-555 Angel Velez 5467 5242.99
-CH-666 Christian Collado 9768 9414.96

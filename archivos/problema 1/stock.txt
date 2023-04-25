@@ -1,5 +1,0 @@
-Queso		1	3	5	12	Plaza		HACER PEDIDO
-Jamon		2	12	3	4	Genovesa
-Arroz		3	1	4	5	Costena		HACER PEDIDO
-Pan		4	2	5	2	Bimbo		HACER PEDIDO
-Fideos		5	14	2	14	Molitalia
