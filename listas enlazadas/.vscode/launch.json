@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/unjbg/3er semestre/Estructura de datos/registro de alumnos/ListaAlumnos/pilas y colas",
-      "program": "d:/unjbg/3er semestre/Estructura de datos/registro de alumnos/ListaAlumnos/pilas y colas/build/Debug/outDebug",
+      "cwd": "d:/unjbg/3er semestre/Estructura de datos/registro de alumnos/LIstaAlumnos/listas enlazadas",
+      "program": "d:/unjbg/3er semestre/Estructura de datos/registro de alumnos/LIstaAlumnos/listas enlazadas/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

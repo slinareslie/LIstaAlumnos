@@ -1,5 +1,5 @@
 #include "menu.h"
-#include "a_listas.h"
+#include "funcionesLista.h"
 #include "alumno.h"
 
 using namespace std;
@@ -43,18 +43,32 @@ int main()
                     mostrar(P, n);
                     system("pause");
                     break;
+                case 6:
+                    break;
+                case 7:
+                    break;
+                case 8:
+                    break;
+                case 9:
+                    break;
+                case 10:
+                    break;
+                case 11:
+                    break;
+                case 12:
+                    break;
                 default:
                     break;
                 }
                 system("cls");
-            } while (opc1 != 6);
+            } while (opc1 != 13);
             break;
         default:
             break;
         }
 
         system("cls");
-    } while (opc != 3);
+    } while (opc != 2);
 
     cout << "\nTenga un buen dia, hasta luego...\n";
 
